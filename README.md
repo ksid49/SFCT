@@ -1,2 +1,2 @@
 # SFCT
-My Assignments for course ELL782 of IIT delhi
+My Assignments for course ELL781 of IIT delhi
